@@ -1,0 +1,1436 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/SimpleChannelList.java" timestamp="1495108631240">
+        <mark key="[" line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/chatRMI/domain/mediator/RemoteModel.java" timestamp="1490359771720">
+        <mark key="[" line="5" column="50" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/Type.java" timestamp="1495013718280">
+        <mark key="[" line="18" column="76" />
+        <mark key="]" line="16" column="99" />
+        <mark key="^" line="16" column="99" />
+        <mark key="." line="16" column="99" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/client/ClientReceiver.java" timestamp="1495098370863">
+        <mark key="[" line="25" column="105" />
+      </file>
+      <file name="/a.dummy" timestamp="1504776973350">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise09_01/boatTrip/Main.java" timestamp="1490084545861">
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinarySearchTreeTest.java" timestamp="1504776691181">
+        <mark key="'" line="198" column="4" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="95" column="45" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/deleteMeWithMain.java" timestamp="1490007013773">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/con/exercises/exercise02_bankSystem/request/Authenticate.java" timestamp="1490109477776">
+        <mark key="[" line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/client/IClientModelManager.java" timestamp="1495715209197">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/DBS2/ExcelHandler.java" timestamp="1509010003468">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/BoxManagment/src/model/entity/ContactInformation.java" timestamp="1488135124049">
+        <mark key="[" line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/Graph/VerticeWeightedEdge.java" timestamp="1509011006657">
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/.gitignore" timestamp="1503564086872">
+        <mark key="[" line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise12_00/HeadlightsOn.java" timestamp="1488882355479">
+        <mark key="[" line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/MessageList.java" timestamp="1494850409364">
+        <mark key="[" line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/Instances.java" timestamp="1494940048817">
+        <mark key="[" line="38" column="47" />
+        <mark key="]" line="38" column="3" />
+        <mark key="." line="38" column="3" />
+        <mark key="^" line="38" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/ServerMain.java" timestamp="1495701355134">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="64" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/BoxManagment/src/gui/frontPage.fxml" timestamp="1488139627366">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise12_00/CarStopHeadlishtsOff.java" timestamp="1488882198214">
+        <mark key="[" line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/EncodingHelper.java" timestamp="1495089810560">
+        <mark key="[" line="31" column="66" />
+        <mark key="]" line="31" column="64" />
+        <mark key="^" line="31" column="64" />
+        <mark key="." line="31" column="64" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/AuthenticationAccount.java" timestamp="1495532306802">
+        <mark key="[" line="13" column="49" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerModelManagerDelegate.java" timestamp="1495540334895">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="233" column="16" />
+        <mark key="]" line="233" column="16" />
+        <mark key="." line="233" column="16" />
+        <mark key="^" line="233" column="16" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/handin-3/Passenger.java" timestamp="1489670782421">
+        <mark key="[" line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/kenneth/handin_3_sdj/PassengerQueue.java" timestamp="1490196960260">
+        <mark key="[" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/DBS/movieTable/aditional.sql" timestamp="1494331992074">
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="18" column="48" />
+        <mark key="^" line="18" column="48" />
+        <mark key="." line="18" column="48" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/sample/JavaSoundRecorder.java" timestamp="1495530819396">
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="45" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="10" column="45" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/sample/JavaSoundrecorder.java" timestamp="1495529529606">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/DBS2/bad_jdbc/DBS2F2017AppCode.java" timestamp="1509010170831" />
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/sourceCodeTest/AnotherOneBitesTheDust.java" timestamp="1495711162268">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="73" column="5" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise17_01/utillity/observer/RemoteSubjectDelegator.java" timestamp="1490359963494">
+        <mark key="[" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/functions/bisection/Bisectional.java" timestamp="1493283346394">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/request/CreateChannelRequest.java" timestamp="1495028124886">
+        <mark key="[" line="24" column="79" />
+        <mark key="]" line="24" column="77" />
+        <mark key="^" line="24" column="77" />
+        <mark key="." line="24" column="77" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/kenneth/ajp/handin4/BucketTest.java" timestamp="1491044237800">
+        <mark key="[" line="61" column="39" />
+        <mark key="]" line="61" column="39" />
+        <mark key="^" line="52" column="7" />
+        <mark key="." line="61" column="39" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/relation/ChannelInAccountRelationList.java" timestamp="1495183596577">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="23" />
+        <mark key="^" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/dao/AccountDao.java" timestamp="1495193673227">
+        <mark key="[" line="17" column="60" />
+      </file>
+      <file name="/a.sql" timestamp="1489409694052">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/functions/bisection/SinXFunction.java" timestamp="1493282924250">
+        <mark key="[" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/response/RemoveChannelResponse.java" timestamp="1494919365419">
+        <mark key="[" line="5" column="50" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/kenneth/newRepetition/rmi/Main.java" timestamp="1493204319529">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="20" column="5" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/dao/IDAOMessage.java" timestamp="1495095652495">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="8" column="59" />
+        <mark key="^" line="8" column="59" />
+        <mark key="." line="8" column="59" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/kenneth/handin_3_sdj/AirportQueue.java" timestamp="1490197035466">
+        <mark key="[" line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/AVLBinaryTreeTest.java" timestamp="1505382156681">
+        <mark key="'" line="78" column="7" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinarySearchTree.java" timestamp="1505388258427">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/datatype/SessionID.java" timestamp="1494851939364">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="35" column="4" />
+        <mark key="^" line="28" column="11" />
+        <mark key="." line="28" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/Graph/DirectedVertice.java" timestamp="1509009691425">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise10_5/IterativeObjectBinarySearch.java" timestamp="1490269029374">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="36" column="28" />
+        <mark key="." line="36" column="28" />
+        <mark key="^" line="36" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise15/chat/domain/mediator/ClientModelProxy.java" timestamp="1489746903278">
+        <mark key="[" line="24" column="76" />
+        <mark key="]" line="26" column="40" />
+        <mark key="^" line="26" column="40" />
+        <mark key="." line="26" column="40" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/chatRMI/domain/mediator/ClientModelManager.java" timestamp="1490686075969">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="47" column="8" />
+        <mark key="." line="47" column="8" />
+        <mark key="^" line="20" column="32" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/kenneth/socket01/TCP/ServerDelegator.java" timestamp="1490191046403">
+        <mark key="[" line="24" column="61" />
+        <mark key="]" line="24" column="61" />
+        <mark key="." line="24" column="40" />
+        <mark key="^" line="24" column="42" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/SimpleAccountList.java" timestamp="1495179666715">
+        <mark key="[" line="132" column="5" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/IServerModelManagerDelegate.java" timestamp="1494927820130">
+        <mark key="[" line="16" column="109" />
+        <mark key="]" line="16" column="107" />
+        <mark key="^" line="16" column="107" />
+        <mark key="." line="16" column="107" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/IBinarySearchTree.java" timestamp="1505377612286">
+        <mark key="[" line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/sqlTest/ddl_simpleunit.sql" timestamp="1505802082161">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="33" column="34" />
+        <mark key="^" line="33" column="34" />
+        <mark key="." line="33" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise12_05/CountingSortTest.java" timestamp="1490863088243">
+        <mark key="[" line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/relation/ChannelRelation.java" timestamp="1495182464444">
+        <mark key="[" line="14" column="73" />
+        <mark key="]" line="14" column="70" />
+        <mark key="^" line="14" column="70" />
+        <mark key="." line="14" column="70" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/kenneth/newREpetition/rmi/model/Note.java" timestamp="1493202706215">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise15/client/system/domain/mediator/ClientReciver.java" timestamp="1489740282848">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+        <mark key="^" line="15" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/request/Request.java" timestamp="1494831699594">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/response/CreateAccountResponse.java" timestamp="1494839538256">
+        <mark key="[" line="7" column="119" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise10_04/RecursiveBinarySearch.java" timestamp="1490262975975">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise08_03/WashingHall.java" timestamp="1489051666718">
+        <mark key="[" line="7" column="39" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/relation/AccountInChannelRelationList.java" timestamp="1495183516502">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="23" />
+        <mark key="^" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/ClientConnection.java" timestamp="1494835851493">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinaryTree.java" timestamp="1504776040361">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="7" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/Channel.java" timestamp="1495532373227">
+        <mark key="'" line="9" column="12" />
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="172" column="36" />
+        <mark key="^" line="172" column="36" />
+        <mark key="." line="172" column="36" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/Graph/DirectedGraphTropologicalSortTest.java" timestamp="1509009862629">
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="33" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="26" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise15/chat/system/domain/mediator/ClientModelManager.java" timestamp="1489746020502">
+        <mark key="[" line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise15/client/system/Main.java" timestamp="1489741421065">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/con/exercises/exercise02_bankSystem/Token.java" timestamp="1490106882344">
+        <mark key="[" line="14" column="51" />
+        <mark key="]" line="14" column="33" />
+        <mark key="^" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/kenneth/handin2/NumberDispenser.java" timestamp="1488466229718">
+        <mark key="[" line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/gui/view/createChannelView/CreateChannelController.java" timestamp="1495456401205">
+        <mark key="[" line="46" column="69" />
+        <mark key="]" line="46" column="30" />
+        <mark key="." line="46" column="30" />
+        <mark key="^" line="46" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/serverSideList/ChannelList.java" timestamp="1495112215068">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="9" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise16_01/RemoteMessageList.java" timestamp="1490003331871">
+        <mark key="[" line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise10_03/IterativeSeachIntegers.java" timestamp="1490263149709">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise17_01/utillity/observer/RemoteSubject.java" timestamp="1490172070507">
+        <mark key="[" line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise12_00/CarOn.java" timestamp="1488879998981">
+        <mark key="[" line="5" column="19" />
+      </file>
+      <file name="dbtable:/acb11546/a2ca0680-16c8-40e2-88a7-eb75819de89d/postgres.schema.employee" timestamp="1489413100165">
+        <mark key="[" line="3" column="2" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/functions/bisection/BisectionalTest.java" timestamp="1493283045910">
+        <mark key="[" line="6" column="80" />
+        <mark key="]" line="6" column="80" />
+        <mark key="^" line="6" column="83" />
+        <mark key="." line="6" column="80" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise17_01/utillity/observer/RemoteObserver.java" timestamp="1490358897607">
+        <mark key="[" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/IServerModelManager.java" timestamp="1494932741422">
+        <mark key="[" line="19" column="64" />
+        <mark key="]" line="19" column="62" />
+        <mark key="^" line="19" column="62" />
+        <mark key="." line="19" column="62" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/ThreeNode.java" timestamp="1504171426879">
+        <mark key="[" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/serverSideList/AccountList.java" timestamp="1495112240074">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="17" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/utility/collection/stack/StackIterator.java" timestamp="1488536750369">
+        <mark key="[" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/IClientModelManager.java" timestamp="1494932722358">
+        <mark key="[" line="20" column="59" />
+        <mark key="]" line="20" column="57" />
+        <mark key="^" line="20" column="57" />
+        <mark key="." line="20" column="57" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/datatype/Port.java" timestamp="1495520969821">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="7" />
+        <mark key="^" line="25" column="7" />
+        <mark key="." line="25" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise10_04/Education.java" timestamp="1488361128264">
+        <mark key="[" line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerModelManager.java" timestamp="1495711284064">
+        <mark key="'" line="35" column="37" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="35" column="36" />
+        <mark key="." line="35" column="36" />
+        <mark key="^" line="35" column="36" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/sorting/sortSpeedTest/InsertionSort.java" timestamp="1503564899595">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/chatRMI/controller/ServerController.java" timestamp="1490686203523">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/response/RemoveChannelRequest.java" timestamp="1494919347354">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise14_02/system/domain/mediator/Model.java" timestamp="1489668334209">
+        <mark key="[" line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise16_01/RemoteMessageServer.java" timestamp="1490196321730">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="78" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/testTestExam/task3/MainBar.java" timestamp="1493887306261">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="13" column="35" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/AccountList.java" timestamp="1495532266554">
+        <mark key="[" line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/testTestExam/task3/IBarDesk.java" timestamp="1493885575509">
+        <mark key="[" line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/Message.java" timestamp="1494850103376">
+        <mark key="[" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/chat/ClientMain.java" timestamp="1490172884931">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="37" />
+        <mark key="^" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/ChannelList.java" timestamp="1495184457723">
+        <mark key="'" line="30" column="11" />
+        <mark key="[" line="35" column="9" />
+        <mark key="]" line="34" column="33" />
+        <mark key="^" line="34" column="33" />
+        <mark key="." line="34" column="33" />
+      </file>
+      <file name="dbtable:/acb11546/a2ca0680-16c8-40e2-88a7-eb75819de89d/postgres.public.employee" timestamp="1489410834288">
+        <mark key="[" line="3" column="2" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise09_01/boatTrip/Passenger.java" timestamp="1490086793660">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise12_00/CarStopHeadlighsOff.java" timestamp="1488882840777">
+        <mark key="[" line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise15/chat/system/domain/mediator/ClientReceiver.java" timestamp="1489745999846">
+        <mark key="[" line="21" column="65" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise09_01/boatTrip/Captain.java" timestamp="1490086759819">
+        <mark key="[" line="21" column="82" />
+        <mark key="]" line="21" column="76" />
+        <mark key="." line="21" column="76" />
+        <mark key="^" line="21" column="76" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/BoxManagment/src/gui/FrontPageLauncher.java" timestamp="1488139263856">
+        <mark key="[" line="12" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/DBS/joiningTables/DDL.sql" timestamp="1492690702029">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="17" column="2" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="17" column="2" />
+      </file>
+      <file name="/dummy.sql" timestamp="1495539897161">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise10_07/TextAnalyzer.java" timestamp="1492500891703">
+        <mark key="[" line="143" column="8" />
+        <mark key="]" line="143" column="8" />
+        <mark key="." line="143" column="8" />
+        <mark key="^" line="140" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinaryNode.java" timestamp="1504773642328">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+        <mark key="^" line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise01_00/NaturalNumber.java" timestamp="1487056906172">
+        <mark key="[" line="116" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinarySearchTreeTest1.java" timestamp="1504776917714">
+        <mark key="'" line="87" column="45" />
+        <mark key="[" line="49" column="37" />
+        <mark key="]" line="87" column="46" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise10_02/SortedIntegersTest.java" timestamp="1490686876424">
+        <mark key="[" line="14" column="58" />
+        <mark key="]" line="32" column="20" />
+        <mark key="^" line="32" column="20" />
+        <mark key="." line="32" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/response/GetChannelResponse.java" timestamp="1494918730301">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/Graph/WeightedGraph.java" timestamp="1509011020502">
+        <mark key="[" line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise09_01/boatTrip/BoatInterface.java" timestamp="1490082438652">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/datatype/ChannelName.java" timestamp="1495012392920">
+        <mark key="[" line="7" column="74" />
+        <mark key="]" line="7" column="71" />
+        <mark key="^" line="7" column="71" />
+        <mark key="." line="7" column="71" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/datatype/SessionIDFactory.java" timestamp="1494831494672">
+        <mark key="[" line="14" column="55" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/response/CreateChannelResponse.java" timestamp="1494919467911">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="40" />
+        <mark key="^" line="14" column="40" />
+        <mark key="." line="14" column="40" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a2ca0680-16c8-40e2-88a7-eb75819de89d/console.sql" timestamp="1489410270739">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/chatRMI/ServerMain.java" timestamp="1490686120106">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/Graph/UnDirectedGraph.java" timestamp="1506592237330">
+        <mark key="[" line="49" column="6" />
+        <mark key="]" line="49" column="6" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="49" column="6" />
+      </file>
+      <file name="/fragment.java" timestamp="1505380184233">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/gui/view/config/config.fxml" timestamp="1495455735002">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="6" column="91" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise10_02/StarSignFactory.java" timestamp="1488358785987">
+        <mark key="[" line="9" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/functions/SecantMethod/Test.java" timestamp="1493280634999">
+        <mark key="[" line="7" column="71" />
+        <mark key="]" line="9" column="35" />
+        <mark key="^" line="9" column="35" />
+        <mark key="." line="9" column="35" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise10_04/School.java" timestamp="1488361175221">
+        <mark key="[" line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/con/exercises/exercise02_bankSystem/AccountListInterface.java" timestamp="1490108557569">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e32501ac-1944-40b6-9354-3376e7cd2f50/console.sql" timestamp="1505472110954">
+        <mark key="[" line="7" column="51" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/utility/collection/set/ArraySetTest.java" timestamp="1488543729344">
+        <mark key="[" line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise12_01/FootballFan.java" timestamp="1488961017086">
+        <mark key="[" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/relation/AccountTOAccountRelation.java" timestamp="1495111480532">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="18" column="5" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise15/chat/domain/mediator/ClientReceiver.java" timestamp="1489747762692">
+        <mark key="[" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinaryNodeWithParent.java" timestamp="1505379516610">
+        <mark key="[" line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise15/chat/ClientMain.java" timestamp="1490001321379">
+        <mark key="[" line="13" column="51" />
+        <mark key="]" line="23" column="6" />
+        <mark key="^" line="23" column="6" />
+        <mark key="." line="23" column="6" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/dao/DAOChannel.java" timestamp="1495105510646">
+        <mark key="'" line="46" column="29" />
+        <mark key="[" line="156" column="94" />
+        <mark key="]" line="156" column="91" />
+        <mark key="." line="156" column="91" />
+        <mark key="^" line="156" column="91" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise12_00/CarBackwardHeadlightsOn.java" timestamp="1488882651989">
+        <mark key="[" line="5" column="37" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/DBS/apollo/populateTables.sql" timestamp="1491222547689">
+        <mark key="[" line="11" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/Config.java" timestamp="1495097406836">
+        <mark key="[" line="13" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/testTestExam/task3/Bartender.java" timestamp="1493886354506">
+        <mark key="[" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/criteria/Criteria.java" timestamp="1495014001721">
+        <mark key="[" line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/request/AcceptInviteToChannel.java" timestamp="1494926898707">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/sample/sample.fxml" timestamp="1495445809675">
+        <mark key="[" line="6" column="83" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/BoxManagment/src/gui/module/Launcher.java" timestamp="1488142723315">
+        <mark key="[" line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/kenneth/socket01/rmi/server/TaskServerInterface.java" timestamp="1490195111687">
+        <mark key="[" line="2" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/ChannelFactory.java" timestamp="1495532427832">
+        <mark key="[" line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/kenneth/newREpetition/rmi/ServerModelInterface.java" timestamp="1493202658132">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/functions/integral/RectIntegral.java" timestamp="1493284247441">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="20" />
+        <mark key="." line="28" column="20" />
+        <mark key="^" line="20" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/gui/view/createChannelView/launcher.java" timestamp="1495454074132">
+        <mark key="[" line="11" column="87" />
+        <mark key="]" line="11" column="83" />
+        <mark key="^" line="11" column="83" />
+        <mark key="." line="11" column="83" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/response/SearchForAccountResponse.java" timestamp="1495013900988">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="54" />
+        <mark key="^" line="10" column="54" />
+        <mark key="." line="10" column="54" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise12_00/HeadlightsOff.java" timestamp="1488883250370">
+        <mark key="[" line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/AccountFactory.java" timestamp="1495532136461">
+        <mark key="[" line="98" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/con/exercises/exercise02_bankSystem/BankInterface.java" timestamp="1490108906604">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="4" column="46" />
+        <mark key="^" line="4" column="46" />
+        <mark key="." line="4" column="46" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise12_03/InsertionSortTest.java" timestamp="1490861747343">
+        <mark key="[" line="39" column="60" />
+        <mark key="]" line="39" column="33" />
+        <mark key="." line="39" column="33" />
+        <mark key="^" line="39" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise10_ConfesionChair/Main.java" timestamp="1490256664408">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/IServerModelManager.java" timestamp="1495703800628">
+        <mark key="[" line="17" column="65" />
+        <mark key="]" line="19" column="47" />
+        <mark key="^" line="19" column="47" />
+        <mark key="." line="19" column="47" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/kenneth/newREpetition/rmi/ServerModel.java" timestamp="1493202601660">
+        <mark key="[" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/Graph/Vertice.java" timestamp="1506591450369">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise12_00/CarOff.java" timestamp="1488880011574">
+        <mark key="[" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/chatRMI/domain/mediator/ServerModelManager.java" timestamp="1490683988526">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="33" column="42" />
+        <mark key="." line="33" column="42" />
+        <mark key="^" line="37" column="47" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/DBS/apollo/querryDB.sql" timestamp="1492497292605">
+        <mark key="[" line="36" column="37" />
+        <mark key="]" line="36" column="28" />
+        <mark key="^" line="36" column="28" />
+        <mark key="." line="36" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinarySearchTreeTest2.java" timestamp="1504776095871">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="102" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise12_00/HeadligtsOn.java" timestamp="1488883199490">
+        <mark key="[" line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/request/GetFriendListRequest.java" timestamp="1494916686655">
+        <mark key="[" line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise12_00/HeadlightOff.java" timestamp="1488883030561">
+        <mark key="[" line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/SimpleAccount.java" timestamp="1495177801416">
+        <mark key="[" line="76" column="8" />
+        <mark key="]" line="75" column="48" />
+        <mark key="^" line="75" column="48" />
+        <mark key="." line="75" column="48" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise10_04/Programme.java" timestamp="1488361296239">
+        <mark key="[" line="5" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/math/SqrtRoot.java" timestamp="1493284659709">
+        <mark key="[" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/ServerModelManager.java" timestamp="1494933317172">
+        <mark key="[" line="71" column="15" />
+        <mark key="]" line="56" column="24" />
+        <mark key="^" line="49" column="23" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/foodApplication/src/model/helper/Helper.java" timestamp="1487168882210">
+        <mark key="[" line="6" column="87" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise06_01/DoubleNode.java" timestamp="1487755415383">
+        <mark key="[" line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/request/GetChannelsRequest.java" timestamp="1494918469119">
+        <mark key="[" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/utility/collection/stack/StackArrayListBased.java" timestamp="1488536649985">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/kenneth/socket01/rmi/TaskServer.java" timestamp="1490196661577">
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="44" column="7" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise07_03/ArraySet.java" timestamp="1488191624423">
+        <mark key="[" line="57" column="5" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/kenneth/newRepetition/easterAJPThreadExercise/simulateUsingToilet.java" timestamp="1493205666502">
+        <mark key="[" line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise08_03/Car.java" timestamp="1489051920138">
+        <mark key="[" line="30" column="47" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise17_01/Main.java" timestamp="1490175443971">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/JSONHelper.java" timestamp="1495028233646">
+        <mark key="[" line="195" column="74" />
+        <mark key="]" line="195" column="72" />
+        <mark key="^" line="195" column="72" />
+        <mark key="." line="195" column="72" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/relation/ValidAccountInChannelRelation.java" timestamp="1495111121764">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise10_ConfesionChair/Churchoger.java" timestamp="1490257067159">
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="45" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise07_02/SetADT.java" timestamp="1487939251312">
+        <mark key="[" line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/AVLBinaryTree.java" timestamp="1505980664687">
+        <mark key="'" line="137" column="18" />
+        <mark key="[" line="139" column="8" />
+        <mark key="]" line="139" column="7" />
+        <mark key="." line="139" column="7" />
+        <mark key="^" line="139" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/MessageFactory.java" timestamp="1494939773267">
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise15/client/system/controller/ClientController.java" timestamp="1489741624457">
+        <mark key="[" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/BoxManagment/src/gui/module/EntityTypeForm.fxml" timestamp="1488142668200">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/datatype/EMail.java" timestamp="1494852726016">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="3" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/ChannelRelationStatusMap.java" timestamp="1495024114683">
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="26" column="3" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise05_01/Counter.java" timestamp="1488269591715">
+        <mark key="[" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/DBS/joiningTables/DML.sql" timestamp="1492691095834">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="15" />
+        <mark key="^" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/ChannelRelationStatus.java" timestamp="1495021488850">
+        <mark key="[" line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/BoxManagment/src/model/test/managerTest.java" timestamp="1488138690805">
+        <mark key="[" line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/response/InviteToChannelResponse.java" timestamp="1494926094537">
+        <mark key="[" line="8" column="63" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/gui/WindowHelper.java" timestamp="1495541510363">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="45" column="27" />
+        <mark key="^" line="45" column="27" />
+        <mark key="." line="45" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/Account.java" timestamp="1495531932436">
+        <mark key="'" line="6" column="19" />
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="201" column="18" />
+        <mark key="." line="201" column="18" />
+        <mark key="^" line="201" column="18" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/TreeNode.java" timestamp="1504171465928">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/functions/integral/Test.java" timestamp="1493284034302">
+        <mark key="[" line="6" column="75" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/gui/view/login/LoginController.java" timestamp="1495540939184">
+        <mark key="[" line="26" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/con/exercises/exercise02_bankSystem/Account.java" timestamp="1490109025235">
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
+        <mark key="^" line="39" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise12_01/SelectionSortTest.java" timestamp="1490857624160">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="44" />
+        <mark key="^" line="23" column="44" />
+        <mark key="." line="23" column="44" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/datatype/Identifier.java" timestamp="1494919964888">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="43" column="8" />
+        <mark key="." line="32" column="15" />
+        <mark key="^" line="32" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/Graph/DirectedGraph.java" timestamp="1509010496968">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="63" column="52" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="55" column="52" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/DBS/apollo/newCustom.sql" timestamp="1493040983900">
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="64" column="16" />
+        <mark key="." line="64" column="16" />
+        <mark key="^" line="64" column="16" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/functions/integral/IntegralFunction.java" timestamp="1493283731679">
+        <mark key="[" line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise15/chat/domain/mediator/ClientModelManager.java" timestamp="1489746919612">
+        <mark key="[" line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/dao/DAOMessage.java" timestamp="1495095675897">
+        <mark key="[" line="80" column="35" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/model/datatype/Username.java" timestamp="1494580964108">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/testTestExam/GolderRatioTest.java" timestamp="1493883716031">
+        <mark key="[" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise10_02/DateInterval.java" timestamp="1488356498049">
+        <mark key="[" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise03_01/MyMathTest.java" timestamp="1487666582042">
+        <mark key="[" line="11" column="5" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise13_01/cd/domain/mediator/CdModel.java" timestamp="1489149014823">
+        <mark key="[" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/Graph/Graph.java" timestamp="1506591743702">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/response/GetFriendListResponse.java" timestamp="1494917262673">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/TreeTraverser.java" timestamp="1504773355822">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="41" />
+        <mark key="." line="8" column="41" />
+        <mark key="^" line="21" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise13_01/src/Main.java" timestamp="1489147030455">
+        <mark key="[" line="12" column="53" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/datatype/PlainTextPassword.java" timestamp="1494844606786">
+        <mark key="[" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise10_01/SortedIntegersTest.java" timestamp="1490683842241">
+        <mark key="[" line="40" column="46" />
+        <mark key="]" line="40" column="46" />
+        <mark key="." line="40" column="46" />
+        <mark key="^" line="40" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/gui/view/config/ConfigController.java" timestamp="1495528365946">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="16" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/utility/collection/queue/QueueADT.java" timestamp="1488190896974">
+        <mark key="[" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercises09_02/Buffer.java" timestamp="1488732470725">
+        <mark key="[" line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/ajp/exercises/exercise05_01/Main.java" timestamp="1488269554855">
+        <mark key="[" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/test/ServerModelManagerTest.java" timestamp="1495710956299">
+        <mark key="[" line="56" column="10" />
+        <mark key="]" line="56" column="10" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="48" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/relation/ChannelRelationList.java" timestamp="1495182688761">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="10" column="37" />
+        <mark key="." line="10" column="37" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise10_02/StarSignWithInterpertation.java" timestamp="1488359772730">
+        <mark key="[" line="7" column="41" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SDJ2/src/con/exercises/exercise02_bankSystem/ServerMain.java" timestamp="1490106928026">
+        <mark key="[" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/utility/response/LeaveChannelResponse.java" timestamp="1494926387819">
+        <mark key="[" line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/relation/ValidRelation.java" timestamp="1495184601415">
+        <mark key="[" line="20" column="5" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="86" column="59" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/dao/DAOChannel.java" />
+      <jump line="87" column="41" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/dao/DAOChannel.java" />
+      <jump line="137" column="19" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/dao/DAOChannel.java" />
+      <jump line="26" column="54" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/dao/DAOChannel.java" />
+      <jump line="46" column="29" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/dao/DAOChannel.java" />
+      <jump line="10" column="73" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/SimpleChannel.java" />
+      <jump line="8" column="8" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerModelManager.java" />
+      <jump line="151" column="54" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerModelManagerDelegate.java" />
+      <jump line="147" column="16" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerModelManagerDelegate.java" />
+      <jump line="9" column="13" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerRequestForwarder.java" />
+      <jump line="70" column="109" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerRequestForwarder.java" />
+      <jump line="71" column="30" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerRequestForwarder.java" />
+      <jump line="72" column="30" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerRequestForwarder.java" />
+      <jump line="14" column="12" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerModelManagerDelegate.java" />
+      <jump line="9" column="16" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/IServerModelManager.java" />
+      <jump line="4" column="19" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/Account.java" />
+      <jump line="11" column="19" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/dao/AccountDaoDB.java" />
+      <jump line="20" column="65" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/dao/AccountDaoDB.java" />
+      <jump line="40" column="19" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/dao/AccountDaoDB.java" />
+      <jump line="64" column="38" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/dao/AccountDaoDB.java" />
+      <jump line="26" column="15" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerModelManager.java" />
+      <jump line="10" column="17" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/IServerModelManager.java" />
+      <jump line="12" column="12" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerModelManager.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerModelManagerDelegate.java" />
+      <jump line="64" column="43" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerModelManagerDelegate.java" />
+      <jump line="66" column="43" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerModelManagerDelegate.java" />
+      <jump line="8" column="12" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/Channel.java" />
+      <jump line="30" column="11" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/ChannelList.java" />
+      <jump line="47" column="21" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerModelManager.java" />
+      <jump line="194" column="0" filename="$USER_HOME$/IdeaProjects/SEP2/src/DB/DDL.sql" />
+      <jump line="35" column="13" filename="$USER_HOME$/IdeaProjects/SEP2/src/DB/DDL.sql" />
+      <jump line="37" column="2" filename="$USER_HOME$/IdeaProjects/SEP2/src/DB/DDL.sql" />
+      <jump line="39" column="14" filename="$USER_HOME$/IdeaProjects/SEP2/src/DB/DDL.sql" />
+      <jump line="71" column="14" filename="$USER_HOME$/IdeaProjects/SEP2/src/DB/DDL.sql" />
+      <jump line="77" column="2" filename="$USER_HOME$/IdeaProjects/SEP2/src/DB/DDL.sql" />
+      <jump line="92" column="14" filename="$USER_HOME$/IdeaProjects/SEP2/src/DB/DDL.sql" />
+      <jump line="94" column="13" filename="$USER_HOME$/IdeaProjects/SEP2/src/DB/DDL.sql" />
+      <jump line="22" column="31" filename="$USER_HOME$/IdeaProjects/SEP2/src/DB/DDL.sql" />
+      <jump line="28" column="13" filename="$USER_HOME$/IdeaProjects/SEP2/src/DB/DDL.sql" />
+      <jump line="30" column="2" filename="$USER_HOME$/IdeaProjects/SEP2/src/DB/DDL.sql" />
+      <jump line="32" column="14" filename="$USER_HOME$/IdeaProjects/SEP2/src/DB/DDL.sql" />
+      <jump line="49" column="14" filename="$USER_HOME$/IdeaProjects/SEP2/src/DB/DDL.sql" />
+      <jump line="51" column="13" filename="$USER_HOME$/IdeaProjects/SEP2/src/DB/DDL.sql" />
+      <jump line="14" column="0" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/dao/AccountDaoDB.java" />
+      <jump line="7" column="6" filename="$USER_HOME$/IdeaProjects/SEP2/src/gui/view/config/config.fxml" />
+      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/SEP2/src/gui/view/config/config.fxml" />
+      <jump line="6" column="4" filename="$USER_HOME$/IdeaProjects/SEP2/src/gui/view/config/config.fxml" />
+      <jump line="14" column="0" filename="$USER_HOME$/IdeaProjects/SEP2/src/gui/view/config/config.fxml" />
+      <jump line="13" column="10" filename="$USER_HOME$/IdeaProjects/SEP2/src/gui/view/config/config.fxml" />
+      <jump line="16" column="54" filename="$USER_HOME$/IdeaProjects/SEP2/src/gui/WindowHelper.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/SEP2/src/gui/view/config/config.fxml" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/client/IClientModelManager.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/client/ClientModelManager.java" />
+      <jump line="111" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/sample/NewMain.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/client/ClientModelManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerModelManagerDelegate.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerModelManager.java" />
+      <jump line="45" column="33" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ChannelRequestForwarder.java" />
+      <jump line="47" column="25" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ChannelRequestForwarder.java" />
+      <jump line="48" column="30" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ChannelRequestForwarder.java" />
+      <jump line="49" column="35" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ChannelRequestForwarder.java" />
+      <jump line="52" column="18" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerRequestForwarder.java" />
+      <jump line="139" column="148" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerRequestForwarder.java" />
+      <jump line="17" column="13" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerModelManager.java" />
+      <jump line="35" column="37" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ServerModelManager.java" />
+      <jump line="33" column="50" filename="$USER_HOME$/IdeaProjects/SEP2/src/sourceCodeTest/AnotherOneBitesTheDust.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ChannelRequestForwarder.java" />
+      <jump line="30" column="33" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ChannelRequestForwarder.java" />
+      <jump line="31" column="44" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ChannelRequestForwarder.java" />
+      <jump line="32" column="95" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ChannelRequestForwarder.java" />
+      <jump line="33" column="42" filename="$USER_HOME$/IdeaProjects/SEP2/src/domain/mediator/server/ChannelRequestForwarder.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinaryTree.java" />
+      <jump line="154" column="4" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinaryTree.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinaryTree.java" />
+      <jump line="71" column="4" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinaryTree.java" />
+      <jump line="73" column="37" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinaryTree.java" />
+      <jump line="76" column="18" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinaryTree.java" />
+      <jump line="77" column="18" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinaryTree.java" />
+      <jump line="90" column="16" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinaryTree.java" />
+      <jump line="129" column="70" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinaryTree.java" />
+      <jump line="31" column="19" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinarySearchTreeTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinarySearchTreeTest.java" />
+      <jump line="102" column="4" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinarySearchTreeTest.java" />
+      <jump line="87" column="45" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/BinarySearchTreeTest1.java" />
+      <jump line="19" column="8" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/AVLBinaryTreeTest.java" />
+      <jump line="78" column="7" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/AVLBinaryTreeTest.java" />
+      <jump line="132" column="18" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/three/AVLBinaryTree.java" />
+      <jump line="34" column="3" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/sqlTest/ddl_simpleunit.sql" />
+      <jump line="35" column="0" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/sqlTest/ddl_simpleunit.sql" />
+      <jump line="7" column="33" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/sqlTest/ddl_simpleunit.sql" />
+      <jump line="33" column="34" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/sqlTest/ddl_simpleunit.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/sqlTest/ddl_simpleunit.sql" />
+      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/Graph/DirectedGraph.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/Graph/DirectedGraph.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/Graph/DirectedGraph.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/Graph/DirectedGraph.java" />
+      <jump line="48" column="4" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/DBS2/ExcelHandler.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/DBS2/ExcelHandler.java" />
+      <jump line="10" column="26" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/DBS2/ExcelHandler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/3rdSemester/code/DBS2/ExcelHandler.java" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="106" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIExpc3Q8V2VpZ2h0ZWRWZXJ0aWNlPiB2ZXJ0aWNlTGlzdDsK</text>
+      </register>
+      <register name="b" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+        </keys>
+      </register>
+      <register name="c" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="d" type="4">
+        <keys>
+          <key char="47" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="66" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+        </keys>
+      </register>
+      <register name="e" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="65" mods="130" />
+          <key char="97" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text>for (DirectedVertice item : stack)</text>
+      </register>
+      <register name="/" type="4">
+        <text>@</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkaXJlY3RlZEdyYXBoLm1ha2VFZGdlKHY1LCB2MCk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIExpc3Q8V2VpZ2h0ZWRWZXJ0aWNlPiB2ZXJ0aWNlTGlzdDsK</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vaW5kZXggMCBmb3IgdGhlIGVkZ2UsIGluZGV4IDEgZm9yIHRoZSB3ZWlnaHQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIExpc3Q8VmVydGljZVdlaWdodGVkRWRnZT4gbmVpZ2hib3VyTGlzdDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEFycmF5TGlzdDw+W10gZWRnZUFycmF5Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlZGdlQXJyYXkgPSBuZXcgQXJyYXlMaXN0WzJdOwo=</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBlZGdlQXJyYXlbMV0gPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBlZGdlQXJyYXlbMF0gPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>actionlist</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>@</last-search>
+      <last-offset />
+      <last-pattern>@</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>forwardRequest</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>account</entry>
+        <entry>accountInChannel</entry>
+        <entry>getF(</entry>
+        <entry>getF</entry>
+        <entry>public static URL get</entry>
+        <entry>public static URL</entry>
+        <entry>hello</entry>
+        <entry>sendMessager</entry>
+        <entry>send</entry>
+        <entry>sendMessage</entry>
+        <entry>forwardSend</entry>
+        <entry>forwardRequest</entry>
+        <entry>getChannels</entry>
+        <entry>message</entry>
+        <entry>Node</entry>
+        <entry>:set relativenumber</entry>
+        <entry>{</entry>
+        <entry>8</entry>
+        <entry>contains</entry>
+        <entry>@</entry>
+      </history-search>
+      <history-cmd>
+        <entry>let i = 1 | qfer&quot;\=i&quot; j^q</entry>
+        <entry>e\=0</entry>
+        <entry>\=&quot;hello&quot;</entry>
+        <entry>r\=&quot;hello&quot;</entry>
+        <entry>s\=&quot;hello&quot;</entry>
+        <entry>let i = 1| s/1/\=i | let i = i+1</entry>
+        <entry>let i = 1| %s/1/\=i/gc | let i = i+1</entry>
+        <entry>let c = 0</entry>
+        <entry>let c=0</entry>
+        <entry>set relativenumber</entry>
+        <entry>set number</entry>
+        <entry>n5</entry>
+        <entry>5</entry>
+        <entry>11</entry>
+        <entry>set expandtab</entry>
+        <entry>reg</entry>
+        <entry>reg &quot;*</entry>
+        <entry>46y</entry>
+        <entry>47y</entry>
+        <entry>actionlist</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
