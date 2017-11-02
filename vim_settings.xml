@@ -127,7 +127,6 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/DBS2/bad_jdbc/DBS2F2017AppCode.java" timestamp="1509010170831" />
       <file name="$USER_HOME$/IdeaProjects/SEP2/src/sourceCodeTest/AnotherOneBitesTheDust.java" timestamp="1495711162268">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="73" column="5" />
@@ -982,6 +981,11 @@
       <file name="$USER_HOME$/IdeaProjects/SDJ2/src/sdj/exercises/exercise13_01/src/Main.java" timestamp="1489147030455">
         <mark key="[" line="12" column="53" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/3rdSemester/code/ADS/kenneth/backtrack/AcendingNumbers.java" timestamp="1509612231081">
+        <mark key="[" line="31" column="60" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/SEP2/src/domain/model/datatype/PlainTextPassword.java" timestamp="1494844606786">
         <mark key="[" line="2" column="32" />
       </file>
@@ -1151,7 +1155,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExpc3Q8V2VpZ2h0ZWRWZXJ0aWNlPiB2ZXJ0aWNlTGlzdDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1252,7 +1256,7 @@
         <text encoding="base64">ICAgICAgICBkaXJlY3RlZEdyYXBoLm1ha2VFZGdlKHY1LCB2MCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExpc3Q8V2VpZ2h0ZWRWZXJ0aWNlPiB2ZXJ0aWNlTGlzdDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1260,22 +1264,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vaW5kZXggMCBmb3IgdGhlIGVkZ2UsIGluZGV4IDEgZm9yIHRoZSB3ZWlnaHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVzdWx0W3Jlc3VsdC5sZW5ndGggLSAxXSA8IG5leHQpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExpc3Q8VmVydGljZVdlaWdodGVkRWRnZT4gbmVpZ2hib3VyTGlzdDsK</text>
+        <text encoding="base64">ICAgIExpc3Q8V2VpZ2h0ZWRWZXJ0aWNlPiB2ZXJ0aWNlTGlzdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFycmF5TGlzdDw+W10gZWRnZUFycmF5Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlZGdlQXJyYXkgPSBuZXcgQXJyYXlMaXN0WzJdOwo=</text>
+        <text encoding="base64">ICAgIC8vaW5kZXggMCBmb3IgdGhlIGVkZ2UsIGluZGV4IDEgZm9yIHRoZSB3ZWlnaHQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1298,10 +1302,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlZGdlQXJyYXlbMV0gPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlZGdlQXJyYXlbMF0gPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgIExpc3Q8VmVydGljZVdlaWdodGVkRWRnZT4gbmVpZ2hib3VyTGlzdDsK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
