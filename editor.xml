@@ -4,4 +4,8 @@
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
 </application>
